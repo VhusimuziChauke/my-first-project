@@ -1,0 +1,3 @@
+VS Code is a code editor where you write and manage your programming code. Git is a tool that tracks changes to your code, Node.js allows you to run JavaScript outside a web browser, and the Terminal is where you type commands to control your computer and run development tools. Together, they help you write code, track and manage your work, run JavaScript programs, and execute commands while developing software.
+
+The Internet is the global network that connects computers and devices, while the World Wide Web (WWW) is a service on the Internet that lets us access websites and web pages.
